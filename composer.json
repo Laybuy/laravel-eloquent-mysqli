@@ -1,5 +1,5 @@
 {
-    "name": "shakahl/laravel-eloquent-mysqli",
+    "name": "Laybuy/laravel-eloquent-mysqli",
     "type": "library",
     "description": "MySQLi driver (connector) for Laravel 5.4 Eloquent database",
     "keywords": ["Laravel", "Lumen", "MySQL", "mysqli", "driver", "connector"],
